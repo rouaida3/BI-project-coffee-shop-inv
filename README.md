@@ -1,2 +1,2 @@
 # BI-project-coffee-shop-inv
-BI project by Rouaida Hentati and Hadil Mabrouk 
+BI project by Rouaida Hentati , Hadil Mabrouk  and Mohamed Ayadi
